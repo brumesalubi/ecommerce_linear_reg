@@ -1,2 +1,13 @@
-# ecommerce_linear_reg
-This repo illustrates the use of Linear Regression to answer an inference question.
+# Ecommerce Sales Prediction
+
+# About the dataset
+
+### Source
+
+### Features
+
+# Software used
+
+# Modeling (Linear Regression)
+
+# Summary of Key Findings
